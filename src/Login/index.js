@@ -19,7 +19,7 @@ const Login = () =>{
     return(
         <form onSubmit={handleLogin}>
             <h2>login</h2>
-            <inputpl aceholder = "Enter first name" type = "text"
+            <input placeholder = "Enter first name" type = "text"
             onChange = {(e) => setUsername(e.target.value)} />
             
             <br/>
