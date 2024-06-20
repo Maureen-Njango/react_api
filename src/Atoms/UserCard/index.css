@@ -3,10 +3,10 @@
     display: inline grid;
     gap: 2%;
     
+    
 
   
 }
-/* .img{
-    width: 700px;
-    height: 200px;
-} */
+.names h3{
+    font-size: small;
+}
